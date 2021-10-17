@@ -1,4 +1,4 @@
-import cv2  # pip install opencv-python
+import cv2  
 import numpy as np
 from mss import mss
 from PIL import Image
